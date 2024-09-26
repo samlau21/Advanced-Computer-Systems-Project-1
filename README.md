@@ -12,7 +12,7 @@ The objective of this project is to gain deeper understanding of cache and memor
 
    Script: Memory_Bandwidth
 
-**Experiment** 3:**
+**Experiment 3:**
 
    Code: queuing_theory.cpp 
 
