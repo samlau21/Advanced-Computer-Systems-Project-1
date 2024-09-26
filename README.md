@@ -2,7 +2,9 @@
 The objective of this project is to gain deeper understanding of cache and memory hierarchy in modern computers.
 
 Experiment 1:
+
 Code: Memory_Latency.cpp 
+
 Script: Memory_Latency
 
 Experiment 2:
